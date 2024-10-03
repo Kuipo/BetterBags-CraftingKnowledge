@@ -1,4 +1,4 @@
-## Title: BetterBags - Crafting Knowledge - Single Category
+## Title: BetterBags - Crafting Knowledge Single Category
 ## Notes: Filter for BetterBags to filter Crafting Knowledge items into their own single category.
 ## Interface: 110002
 ## Version: 1.1.9
